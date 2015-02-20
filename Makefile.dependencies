@@ -1,0 +1,3 @@
+factorial.o: factorial.c
+taylorSine.o: taylorSine.c
+matrixmult.o: matrixmult.c
