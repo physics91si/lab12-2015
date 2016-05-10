@@ -1,8 +1,8 @@
 #!/usr/bin/python2.7
 
 # Your Name
-# Physics 91SI Spring 2013
-# Lab #9, Part 2
+# Physics 91SI Spring 2016
+# Lab #12, Part 2
 
 # Contacts list reader
 
@@ -45,7 +45,7 @@ def print_contacts(contacts):
 
 		# This is Python's "string interpolation"
 		# for C users, it's very similar to printf
-		print "%s %s" % (first, last)
+		print ("%s %s" % (first, last))
 
 
 def main():
